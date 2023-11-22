@@ -2,7 +2,7 @@
 Analysis on Boston's Real Estate Data with Tableau
 
 ### Dashboard
-![Tableau FDI Analysis Dashboard](./Dashboard.png)
+![Tableau Boston Real Estate Dashboard](./Dashboard.png)
 
 ### Questions Answered
 1. How does crime affect the price of real estate?
