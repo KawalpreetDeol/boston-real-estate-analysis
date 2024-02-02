@@ -19,8 +19,3 @@ Analysis on Boston's Real Estate Data with Tableau
 ### Data Citation
 `Boston housing dataset. Kaggle. Vish Vishal.`
 https://www.kaggle.com/datasets/altavish/boston-housing-dataset/
-
-### Questions Citation
-`edureka!. Tableau Full Course [2024] in 10 Hours | Tableau Training for Beginners | Edureka`
-
-https://www.youtube.com/live/dTVMR7yrGAI?si=KDg50kgK-MGfVClK
